@@ -20,7 +20,7 @@
     "@types/node": "^12.11.1",
     "@types/sequelize": "^4.28.6",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.10.2",
+    "class-validator": "^0.14.0",
     "cors": "^2.8.5",
     "nodemon": "^1.19.4",
     "pg": "^7.12.1",
